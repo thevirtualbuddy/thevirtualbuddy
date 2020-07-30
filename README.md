@@ -1,6 +1,6 @@
 ## Sonu Saha—@thevirtualbuddy
 ### Hello World; 
-### I'm Sonu, a novice to the world of CS & IT.   👋
+### I'm Sonu, a novice to the world of opensource.   👋
 - 🌱 Currently crushing on Python 
 ### Connect with me 📫 : 
 <p align="center">
