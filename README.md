@@ -1,13 +1,13 @@
-## Sonu Saha—@thevirtualbuddy  <a href="https://dev.to/thevirtualbuddy">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sonu Saha's DEV Profile" height="30" width="30">
-</a>
+## Sonu Saha—@thevirtualbuddy  
 
 ### Hello World; 
 ### I'm Sonu, a novice to the world of opensource.   👋
 - 🌱 Currently crushing on Python 
 ### Connect with me 📫 : 
 <p align="center">
-
+<a href="https://dev.to/thevirtualbuddy">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sonu Saha's DEV Profile" height="30" width="30">
+</a>
 <a href= "https://www.linkedin.com/in/sonu-saha-a97754131/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/thevirtualbuddy/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
