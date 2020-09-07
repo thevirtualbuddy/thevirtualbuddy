@@ -1,4 +1,7 @@
-## Sonu Saha—@thevirtualbuddy
+## Sonu Saha—@thevirtualbuddy  <a href="https://dev.to/thevirtualbuddy">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sonu Saha's DEV Profile" height="30" width="30">
+</a>
+
 ### Hello World; 
 ### I'm Sonu, a novice to the world of opensource.   👋
 - 🌱 Currently crushing on Python 
