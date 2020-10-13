@@ -8,9 +8,13 @@
 </p>
 
 <div>
+  <a href="https://github.com/thevirtualbuddy">
   <img src="https://github-readme-stats.vercel.app/api/?username=thevirtualbuddy&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  </a>
   <br>
+  <a href="https://github.com/thevirtualbuddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevirtualbuddy&theme=light&hide_langs_below=1" />
+  </a>
 </div>
 
 Feel free to check out my repositories below.
