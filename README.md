@@ -1,5 +1,8 @@
-## Sonu Saha—@thevirtualbuddy  
+## Sonu Saha—@thevirtualbuddy <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> 
+### Hi there 👋, My name is Sonu 
+#### Aspiring Python Developer and an Open Source Enthusiast
 <p align="center">
+<br>
 <a href="https://dev.to/thevirtualbuddy">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sonu Saha's DEV Profile" height="30" width="30">
 </a>
@@ -19,6 +22,9 @@
 
 Feel free to check out my repositories below.
 Happy Coding! 😄
+
+
+![Profile views](https://gpvc.arturio.dev/thevirtualbuddy)  
 <!--
 **thevirtualbuddy/thevirtualbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
