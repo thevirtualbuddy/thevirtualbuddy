@@ -7,10 +7,11 @@
 <a href= "https://twitter.com/thevirtualbuddy/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-<p  align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/?username=thevirtualbuddy&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevirtualbuddy&theme=light&hide_langs_below=1" />
-</p>
+</div>
 
 Feel free to check out my repositories below.
 Happy Coding! 😄
