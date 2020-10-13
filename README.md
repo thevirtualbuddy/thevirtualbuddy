@@ -20,8 +20,7 @@
   </a>
 </div>
 
-Feel free to check out my repositories below.
-Happy Coding! 😄
+#### Happy Coding! 😄
 <!--
 **thevirtualbuddy/thevirtualbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
