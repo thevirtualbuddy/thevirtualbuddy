@@ -1,6 +1,6 @@
 ## Sonu Saha—@thevirtualbuddy <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> 
 ### Hi there 👋, My name is Sonu 
-#### Aspiring Software Engineer and an Open Source Enthusiast
+#### An Open Source Enthusiast
 <p align="center">
 <br>
 <a href="https://dev.to/thevirtualbuddy">
