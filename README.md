@@ -4,7 +4,6 @@
 </h1>
 
 
-
 <p align="center">
 <br>
 <a href="https://dev.to/thevirtualbuddy">
@@ -14,19 +13,18 @@
 <a href= "https://twitter.com/thevirtualbuddy/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
+
 <div>
-  <a href="https://github.com/thevirtualbuddy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevirtualbuddy&theme=light&hide_langs_below=1" />
-  </a>
-</div>
-<div>
-  <br>
-    <a href="https://github.com/thevirtualbuddy">
-  <img src="https://github-readme-stats.vercel.app/api/?username=thevirtualbuddy&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats" />
-  </a>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevirtualbuddy&show_icons=true&locale=en&layout=compact&langs_count=5&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="thevirtualbuddy" /></p>  
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thevirtualbuddy&show_icons=true&locale=en&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt="thevirtualbuddy" /></p>
 
 </div>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevirtualbuddy&" alt="thevirtualbuddy" /></p>
+<div>
+  
+
+</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevirtualbuddy&theme=dark" alt="thevirtualbuddy" /></p>
 
 
 <!--
