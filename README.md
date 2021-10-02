@@ -1,17 +1,32 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sonu 
-  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a>,
-
+<h1 align="left">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sonu 
 </h1>
 
+### aboutMe.json
+```yaml
+{
+    "name": "Sonu",
+    "pronouns": "he | him",
+    "technologies": {
+        "frontend": ["Angular"],
+        "backend": [
+              "ASP.NET", 
+              ".NETCore", 
+              "SQLServer"
+         ]
+    },
+    "language": [
+        "C#",
+        "Python",
+        "Typescript",
+        "C",
+        "C++"
+    ],
+    "developer": true,
+    "color": "blue"
+}
 
-<p align="center">
-<br>
-<a href="https://dev.to/thevirtualbuddy">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sonu Saha's DEV Profile" height="30" width="30">
-</a>
-<a href= "https://www.linkedin.com/in/sonusaha/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/thevirtualbuddy/"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-</p>
+```
 
 
 <div>
@@ -31,7 +46,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevirtualbuddy" alt="thevirtualbuddy" /></a> </p>
 -->
 
-<h3>Happy Coding! 😄</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thevirtualbuddy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thevirtualbuddy" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sonusaha" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thevirtualbuddy" height="30" width="40" /></a>
 <!--
 **thevirtualbuddy/thevirtualbuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
